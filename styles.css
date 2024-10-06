@@ -1,0 +1,35 @@
+body {
+    background-color: rgb(31, 59, 102);
+}
+
+h1 {
+    color: white;
+    font-family: arial;
+    text-align: center;
+}
+
+h2 {
+    color: white;
+    font-family: arial;
+    text-align: center;
+}
+
+a {
+    display: flex;
+    font-family: arial;
+    color: greenyellow;
+    justify-content: center;
+}
+
+a:hover {
+    color: rgb(255, 131, 152);
+}
+
+img {
+    border-radius: 10px;
+    margin-left: 45%;
+}
+
+
+
+
